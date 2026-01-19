@@ -285,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **priyesh kawle** - *Initial Development* - [priyeshkawle-XFOX](https://github.com/priyeshkawle-XFOX)
+- **Priyanshi Vishwakarma** - *Initial Development* - [Priyanshi-Vishwakarma22](https://github.com/Priyanshi-Vishwakarma22)
 
 ---
 
@@ -299,9 +299,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/priyeshkawle-XFOX/hireiq/issues)
-- **Email**: support@hireiq.example.com
-- **Documentation**: [Wiki](https://github.com/priyeshkawle-XFOX/hireiq/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Priyanshi-Vishwakarma22/JOB-PORTAL--main/issues)
+- **Email**: vishwakarmapriyanshi291@gmail.com
+
 
 ---
 
