@@ -313,4 +313,13 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 
 **Made with ❤️ by the HireIQ Team**
 ![Image Alt](https://github.com/Priyanshi-Vishwakarma22/JOB-PORTAL--main/blob/main/image.png?raw=true)
+![Image Alt](https://github.com/Priyanshi-Vishwakarma22/JOB-PORTAL--main/blob/main/image1.png?raw=true)
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
+![Image Alt]()
+
 
