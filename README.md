@@ -312,7 +312,3 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 ---
 
 **Made with ❤️ by the HireIQ Team**
-image.png
-image1.png
-image2.png
-image3.png
