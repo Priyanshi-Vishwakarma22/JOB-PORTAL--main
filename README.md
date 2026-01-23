@@ -120,7 +120,8 @@ touch style.css
 
 ### Start the Application
 ```bash
-streamlit run app.py
+cd c:\Users\DELL\Downloads\JOB-PORTAL--main\JOB-PORTAL--main
+python -m streamlit run app.py
 ```
 
 ### Access the Application
