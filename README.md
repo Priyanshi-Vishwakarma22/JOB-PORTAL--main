@@ -318,7 +318,8 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 ![Image Alt](https://github.com/Priyanshi-Vishwakarma22/JOB-PORTAL--main/blob/main/JOB-PORTAL--main/image-3.png?raw=true)
 ![Image Alt](https://github.com/Priyanshi-Vishwakarma22/JOB-PORTAL--main/blob/main/JOB-PORTAL--main/image-4.png?raw=true)
 ![Image Alt](C:\Users\DELL\Downloads\JOB-PORTAL--main\JOB-PORTAL--main\image-5.png)
-![Image Alt]()
+![Image Alt](<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/3115a3b4-fa8c-46ce-95b7-270383c1a16e" />
+)
 ![Image Alt]()
 ![Image Alt](image-8.png)
 
